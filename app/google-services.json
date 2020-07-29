@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422879454513",
+    "firebase_url": "https://selfjournalapp-3f4e7.firebaseio.com",
+    "project_id": "selfjournalapp-3f4e7",
+    "storage_bucket": "selfjournalapp-3f4e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422879454513:android:fffa6bdcee03feca68fc10",
+        "android_client_info": {
+          "package_name": "com.example.selfjournalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422879454513-hb70qoip84l3g5us4c9a1o8cddb8vdf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.selfjournalapp",
+            "certificate_hash": "607938862d4ac4cd37cfebe8ed3fdd4d315f03f9"
+          }
+        },
+        {
+          "client_id": "422879454513-fn5p6caasu3ot29silbcruui48ccue1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw2ocw9eNdI82tv9yqzSNbJ6EVymUfjJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422879454513-fn5p6caasu3ot29silbcruui48ccue1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
